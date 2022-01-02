@@ -4,6 +4,7 @@
 ***
 ## Language
 * Java
+* C++
 * Python<br><br>
 
 ***
