@@ -14,7 +14,8 @@
 ***
 ### Check
 * 해결 : A, B, C, E<br>
-* 미해결 : D, F, G<br><br>
+* 미해결 : D, F, G
+  * [G -> 220104](https://github.com/ro-el-c/PS/blob/main/Java/BJ_21737.java)<br><br>
 
 ***
 ### Memo
