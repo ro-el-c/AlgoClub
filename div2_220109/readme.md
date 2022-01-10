@@ -15,3 +15,4 @@
 ### Check
 * 해결 : A, B, C, E<br>
 * 미해결 : D, F, G
+  * [D, G -> 220110](https://github.com/ro-el-c/PS/blob/main/Java/BJ_16173_16174.java)
