@@ -1,4 +1,4 @@
-## [div2 220109](https://www.acmicpc.net/group/practice/9928/74)<br>
+## [div2 220116](https://www.acmicpc.net/group/practice/9928/74)<br>
 시간 : 20:00 ~ 22:00 <br>
 **사정이 있어, 9시부터 참여함.**<br><br>
 
