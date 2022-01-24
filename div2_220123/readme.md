@@ -16,3 +16,4 @@
 ### Check
 * 해결 : A, B, C, D<br>
 * 미해결 : E, F, G, H
+  * [E -> 220124](https://github.com/ro-el-c/PS/blob/main/Java/BJ_21968.java)
